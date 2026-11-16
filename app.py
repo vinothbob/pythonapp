@@ -3,7 +3,7 @@ from deep_translator import GoogleTranslator
 
 # Language codes for translation
 lang_map = {
-    "Tamil": "ta",
+    "telegu": "te",
     "Hindi": "hi",
     "French": "fr",
     "English": "en"
